@@ -1,5 +1,7 @@
+import Landing from "./Landing";
+
 const App = () => {
-  return <h3>Frontend Design System</h3>;
+  return <Landing />;
 };
 
 export default App;
